@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "312387543381",
+    "firebase_url": "https://impaired-glove-65b19.firebaseio.com",
+    "project_id": "impaired-glove-65b19",
+    "storage_bucket": "impaired-glove-65b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312387543381:android:f7bf16cce9be9750",
+        "android_client_info": {
+          "package_name": "com.example.summan.impairedglove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312387543381-cbphln2d2duocpfqqfo7c3rakqckfd8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4QoBFExuDKxjV69jLIU0epDenhoZXBfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
